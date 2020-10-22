@@ -1,0 +1,1 @@
+This project was done just so that I can begin to familiarize myself with DOM Manipulation using Javascript. This is only the beginning :) _Jose

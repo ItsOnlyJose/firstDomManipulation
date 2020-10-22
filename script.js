@@ -8,7 +8,5 @@ function randomRGBVal(){
     let elem = document.getElementById("main-body");
     elem.style.backgroundColor = newColor;
     return console.log(newColor);
-
-    // elem.style.background-color = rgb(randOne,randTwo, randThree);
     
 }
